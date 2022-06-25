@@ -1,3 +1,3 @@
 # Fibonacci
 
-Repository file made to learn github integration with github
+Repository file made to learn github integration with devops
